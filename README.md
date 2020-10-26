@@ -26,10 +26,11 @@ Run the following command at the root of your project and answer the prompted qu
 
 ## Licence
 ![License](https://img.shields.io/badge/License-mit-blue.svg "License Badge")
+
 MIT
 
 ## Contributors
-![Made by](https://github.com/suzygiv "Github Profile")
+- [Suzanne Givnish](https://github.com/suzygiv)
 
 ## Tests
 
