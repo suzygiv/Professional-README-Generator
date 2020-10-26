@@ -22,7 +22,9 @@ npm init
 npm install inquirer
 
 ## Usage
-Run the following command at the root of your project and answer the prompted questions: node index.js
+Run the following command at the root of your project and answer the prompted questions: 
+
+node index.js
 
 ## Licence
 ![License](https://img.shields.io/badge/License-mit-blue.svg "License Badge")
@@ -30,7 +32,7 @@ Run the following command at the root of your project and answer the prompted qu
 MIT
 
 ## Contributors
-- [Suzanne Givnish](https://github.com/suzygiv)
+[Suzanne Givnish](https://github.com/suzygiv)
 
 ## Tests
 
@@ -39,7 +41,7 @@ MIT
 ✉️ Contact me with any questions: suzannegivnish@gmail.com
 
 ## Repository
-- [Project Repo](undefined)
+[Professional README Generator](undefined)
 
 ## GitHub
 ![Image of me](https://avatars0.githubusercontent.com/u/69487481?v=4)
