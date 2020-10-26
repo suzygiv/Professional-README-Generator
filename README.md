@@ -24,7 +24,7 @@ A command-line application that dynamically generates a professional README.md f
 ## Usage
 Run the following command at the root of your project and answer the prompted questions: 
 
-node index.js
+`node index.js`
 
 ## Licence
 ![License](https://img.shields.io/badge/License-mit-blue.svg "License Badge")
@@ -38,11 +38,11 @@ MIT
 
 
 ## Questions?
-✉️ Contact me with any questions: suzannegivnish@gmail.com
+✉️ Contact me with any questions: [Email](suzannegivnish@gmail.com), [Github](https://github.com/suzygiv)
 
 ## Repository
 [Professional README Generator](undefined)
 
 ## GitHub
 ![Image of me](https://avatars0.githubusercontent.com/u/69487481?v=4)
-- [GitHub Profile](https://github.com/suzygiv)
+[GitHub Profile](https://github.com/suzygiv)
