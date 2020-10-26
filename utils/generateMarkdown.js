@@ -25,7 +25,8 @@ ${data.installation}
 ${data.usage}
 
 ## Licence
-${data.licence}
+     ${data.licence}
+     ![License](https://img.shields.io/badge/License-mit-blue.svg "License Badge")
 
 ## Contributors
 ${data.contributors}
@@ -41,9 +42,7 @@ ${data.tests}
 
 ## GitHub
 ![Image of me](${githubInfo.githubImage})
-- ${githubInfo.name}
 - [GitHub Profile](${githubInfo.profile})
-- <${githubInfo.email}>
 `;
 }
 
