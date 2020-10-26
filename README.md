@@ -17,9 +17,9 @@ A command-line application that dynamically generates a professional README.md f
 - [GitHub Info](#GitHub) 
 
 ## Installation
-npm init
+`npm init`
 
-npm install inquirer
+`npm install inquirer`
 
 ## Usage
 Run the following command at the root of your project and answer the prompted questions: 
