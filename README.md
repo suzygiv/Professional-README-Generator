@@ -10,9 +10,9 @@ A command-line application that dynamically generates a professional README.md f
 - [Description](#Description)
 - [Installation](#Installation)
 - [Usage](#Usage)
-- [Licence](#Licence)
+- [License](#License)
 - [Contributors](#Contributors)
-- [Test](#Test)
+- [Tests](#Tests)
 - [Repository Link](#Repository)
 - [GitHub Info](#GitHub) 
 
