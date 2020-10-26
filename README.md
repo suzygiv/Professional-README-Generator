@@ -45,4 +45,5 @@ MIT
 
 ## GitHub
 ![Image of me](https://avatars0.githubusercontent.com/u/69487481?v=4)
+
 [GitHub Profile](https://github.com/suzygiv)
