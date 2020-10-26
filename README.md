@@ -26,7 +26,7 @@ Run the following command at the root of your project and answer the prompted qu
 
 `node index.js`
 
-## Licence
+## License
 ![License](https://img.shields.io/badge/License-mit-blue.svg "License Badge")
 
 MIT
