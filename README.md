@@ -25,11 +25,11 @@ npm install inquirer
 Run the following command at the root of your project and answer the prompted questions: node index.js
 
 ## Licence
-     MIT
-     ![License](https://img.shields.io/badge/License-mit-blue.svg "License Badge")
+![License](https://img.shields.io/badge/License-mit-blue.svg "License Badge")
+MIT
 
 ## Contributors
-    ![Made by](https://github.com/suzygiv "Github Profile")
+![Made by](https://github.com/suzygiv "Github Profile")
 
 ## Tests
 
