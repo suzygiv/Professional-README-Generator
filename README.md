@@ -12,8 +12,7 @@ A command-line application that dynamically generates a professional README.md f
 - [Usage](#Usage)
 - [Licence](#Licence)
 - [Contributors](#Contributors)
-- [Tests](#Tests)
-- [Questions](#Questions)
+- [Test](#Test)
 - [Repository Link](#Repository)
 - [GitHub Info](#GitHub) 
 
@@ -23,26 +22,24 @@ npm init
 npm install inquirer
 
 ## Usage
-Run the following command at the root of your project and answer the prompted questions:
-
-node index.js
+Run the following command at the root of your project and answer the prompted questions: node index.js
 
 ## Licence
-mit
+     MIT
+     ![License](https://img.shields.io/badge/License-mit-blue.svg "License Badge")
 
 ## Contributors
-asdasdas
+    ![Made by](https://github.com/suzygiv "Github Profile")
 
 ## Tests
-asdasda
+
 
 ## Questions?
 ✉️ Contact me with any questions: suzannegivnish@gmail.com
 
 ## Repository
-- [Professional README Generator Repository](https://github.com/suzygiv/Professional-README-Generator)
+- [Project Repo](undefined)
 
 ## GitHub
 ![Image of me](https://avatars0.githubusercontent.com/u/69487481?v=4)
 - [GitHub Profile](https://github.com/suzygiv)
-

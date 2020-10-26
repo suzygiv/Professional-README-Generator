@@ -19,7 +19,7 @@ ${data.description}
 - [GitHub Info](#GitHub) 
 
 ## Installation
-${data.installation}
+      ${data.installation}
 
 ## Usage
 ${data.usage}
@@ -30,6 +30,7 @@ ${data.usage}
 
 ## Contributors
 ${data.contributors}
+![Made by](https://github.com/suzygiv "Github Profile")
 
 ## Tests
 ${data.tests}
