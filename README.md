@@ -18,10 +18,14 @@ A command-line application that dynamically generates a professional README.md f
 - [GitHub Info](#GitHub) 
 
 ## Installation
-run npm-i
+npm init
+
+npm install inquirer
 
 ## Usage
-dflsdkfds
+Run the following command at the root of your project and answer the prompted questions:
+
+node index.js
 
 ## Licence
 mit
@@ -36,10 +40,9 @@ asdasda
 ✉️ Contact me with any questions: suzannegivnish@gmail.com
 
 ## Repository
-- [Project Repo](https://github.com/suzygiv/Professional-README-Generator)
+- [Professional README Generator Repository](https://github.com/suzygiv/Professional-README-Generator)
 
 ## GitHub
 ![Image of me](https://avatars0.githubusercontent.com/u/69487481?v=4)
-- Suzy Givnish
 - [GitHub Profile](https://github.com/suzygiv)
-- <null>
+
