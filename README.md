@@ -35,7 +35,7 @@ Run the following command at the root of your project and answer the prompted qu
 ## License
 ![License](https://img.shields.io/badge/License-mit-blue.svg "License Badge")
 
-MIT
+[MIT License](http://opensource.org/licenses/mit-license.php)
 
 ## Contributors
 [Suzanne Givnish](https://github.com/suzygiv)
