@@ -42,7 +42,7 @@ const questions = [
     },
     {
         type: "input",
-        message: "Explain how users can contribute to your project",
+        message: "Please list all contributors of this project.",
         name: "contributors"
     },
     {

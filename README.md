@@ -4,7 +4,7 @@
 ![License](https://img.shields.io/badge/License-mit-blue.svg "License Badge")
 
 ## Description 
-A command-line application that dynamically generates a professional README.md file from a user's input using the Inquirer package.
+A command-line application that creates a README.md file based on user's input using Inquirer package.
 
 ## Table of Contents
 - [Description](#Description)
@@ -17,19 +17,17 @@ A command-line application that dynamically generates a professional README.md f
 - [GitHub Info](#GitHub) 
 
 ## Installation
-npm init
-
-npm install inquirer
+      npm install and npm init
 
 ## Usage
-Run the following command at the root of your project and answer the prompted questions: node index.js
+test
 
 ## Licence
-     MIT
-     ![License](https://img.shields.io/badge/License-mit-blue.svg "License Badge")
+undefined
+![License](https://img.shields.io/badge/License-mit-blue.svg "License Badge")
 
 ## Contributors
-    ![Made by](https://github.com/suzygiv "Github Profile")
+Suzanne Givnish
 
 ## Tests
 

@@ -25,12 +25,11 @@ ${data.description}
 ${data.usage}
 
 ## Licence
-     ${data.licence}
-     ![License](https://img.shields.io/badge/License-mit-blue.svg "License Badge")
+${data.licence}
+![License](https://img.shields.io/badge/License-mit-blue.svg "License Badge")
 
 ## Contributors
 ${data.contributors}
-![Made by](https://github.com/suzygiv "Github Profile")
 
 ## Tests
 ${data.tests}
