@@ -10,34 +10,40 @@ A command-line application that creates a README.md file based on user's input u
 - [Description](#Description)
 - [Installation](#Installation)
 - [Usage](#Usage)
-- [Licence](#Licence)
+- [License](#License)
 - [Contributors](#Contributors)
-- [Test](#Test)
+- [Tests](#Tests)
 - [Repository Link](#Repository)
 - [GitHub Info](#GitHub) 
 
 ## Installation
-      npm install and npm init
+`npm init`
+
+`npm install inquirer`
 
 ## Usage
-test
+Run the following command at the root of your project and answer the prompted questions: 
 
-## Licence
-undefined
+`node index.js`
+
+## License
 ![License](https://img.shields.io/badge/License-mit-blue.svg "License Badge")
 
+MIT
+
 ## Contributors
-Suzanne Givnish
+[Suzanne Givnish](https://github.com/suzygiv)
 
 ## Tests
 
 
 ## Questions?
-✉️ Contact me with any questions: suzannegivnish@gmail.com
+✉️ Contact me with any questions: [Email](suzannegivnish@gmail.com), [Github](https://github.com/suzygiv)
 
 ## Repository
-- [Project Repo](undefined)
+[Professional README Generator](undefined)
 
 ## GitHub
 ![Image of me](https://avatars0.githubusercontent.com/u/69487481?v=4)
-- [GitHub Profile](https://github.com/suzygiv)
+
+[GitHub Profile](https://github.com/suzygiv)

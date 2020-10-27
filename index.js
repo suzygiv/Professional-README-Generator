@@ -42,12 +42,12 @@ const questions = [
     },
     {
         type: "input",
-        message: "Please list all contributors of this project.",
+        message: "Please list all contributors of this project",
         name: "contributors"
     },
     {
         type: "input",
-        message: "Provide tests for project, and explain how to test (if necessary)",
+        message: "Please enter any test instructions",
         name: "tests"
     },
 ];
