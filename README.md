@@ -6,6 +6,9 @@
 ## Description 
 A command-line application that creates a README.md file based on user's input using Inquirer package.
 
+## Video Demonstration
+<iframe src="https://drive.google.com/file/d/1lWWqcFvo5wtpWsU32Mezlv9q5jURugwo/preview" width="640" height="480"></iframe>
+
 ## Table of Contents
 - [Description](#Description)
 - [Installation](#Installation)
@@ -39,9 +42,6 @@ MIT
 
 ## Questions?
 ✉️ Contact me with any questions: [Email](suzannegivnish@gmail.com), [Github](https://github.com/suzygiv)
-
-## Repository
-[Professional README Generator](undefined)
 
 ## GitHub
 ![Image of me](https://avatars0.githubusercontent.com/u/69487481?v=4)
