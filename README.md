@@ -7,7 +7,7 @@
 A command-line application that creates a README.md file based on user's input using Inquirer package.
 
 ## Video Demonstration
-![Professional README Generator](https://drive.google.com/file/d/1lWWqcFvo5wtpWsU32Mezlv9q5jURugwo/view)
+[![Professional README Generator](https://drive.google.com/file/d/1lWWqcFvo5wtpWsU32Mezlv9q5jURugwo/view)
 
 ## Table of Contents
 - [Description](#Description)
