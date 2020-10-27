@@ -41,7 +41,7 @@ MIT
 [Suzanne Givnish](https://github.com/suzygiv)
 
 ## Tests
-
+N/A
 
 ## Questions?
 ✉️ Contact me with any questions: [Email](suzannegivnish@gmail.com), [Github](https://github.com/suzygiv)
