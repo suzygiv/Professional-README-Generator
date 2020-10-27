@@ -61,9 +61,7 @@ inquirer
             
             const githubInfo = {
                 githubImage: response.data.avatar_url,
-                email: response.data.email,
                 profile: response.data.html_url,
-                name: response.data.name
             };
             
           fs.writeFile("README.md", generate(data, githubInfo), function(err) {
