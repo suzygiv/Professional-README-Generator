@@ -37,9 +37,6 @@ ${data.tests}
 ## Questions?
 ✉️ Contact me with any questions: ${data.email}
 
-## Repository
-- [Project Repo](${data.repo})
-
 ## GitHub
 ![Image of me](${githubInfo.githubImage})
 - [GitHub Profile](${githubInfo.profile})
