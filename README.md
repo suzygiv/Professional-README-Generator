@@ -6,10 +6,10 @@
 ## Description 
 A command-line application that creates a README.md file based on user's input using Inquirer package.
 
-## README Generator Video Demonstration
+## README Generator Video Walkthrough
 ![README gif](https://github.com/suzygiv/Professional-README-Generator/blob/main/assets/README%20gif.gif)
 
-https://drive.google.com/file/d/1lWWqcFvo5wtpWsU32Mezlv9q5jURugwo/view
+To view the entire video walkthrough, click here: https://drive.google.com/file/d/1lWWqcFvo5wtpWsU32Mezlv9q5jURugwo/view
 
 ## Sample README.md File
 ![README.md file](https://github.com/suzygiv/Professional-README-Generator/blob/main/assets/Sample%20README.md%20file.PNG)
