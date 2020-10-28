@@ -11,9 +11,6 @@ A command-line application that creates a README.md file based on user's input u
 
 To view the entire video walkthrough, click here: https://drive.google.com/file/d/1lWWqcFvo5wtpWsU32Mezlv9q5jURugwo/view
 
-## Sample README.md File
-![README.md file](https://github.com/suzygiv/Professional-README-Generator/blob/main/assets/Sample%20README.md%20file.PNG)
-
 ## Table of Contents
 - [Description](#Description)
 - [Installation](#Installation)
@@ -31,6 +28,9 @@ To view the entire video walkthrough, click here: https://drive.google.com/file/
 Run the following command at the root of your project and answer the prompted questions: 
 
 `node index.js`
+
+## Sample README.md File
+![README.md file](https://github.com/suzygiv/Professional-README-Generator/blob/main/assets/Sample%20README.md%20file.PNG)
 
 ## Licence
 ![License](https://img.shields.io/badge/License-mit-blue.svg "License Badge")
