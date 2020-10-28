@@ -7,6 +7,8 @@
 A command-line application that creates a README.md file based on user's input using Inquirer package.
 
 ## README Generator Video Demonstration
+![README gif](https://github.com/suzygiv/Professional-README-Generator/blob/main/assets/README%20gif.gif)
+
 https://drive.google.com/file/d/1lWWqcFvo5wtpWsU32Mezlv9q5jURugwo/view
 
 ## Sample README.md File
@@ -29,7 +31,6 @@ https://drive.google.com/file/d/1lWWqcFvo5wtpWsU32Mezlv9q5jURugwo/view
 Run the following command at the root of your project and answer the prompted questions: `node index.js`
 
 ## Licence
-undefined
 ![License](https://img.shields.io/badge/License-mit-blue.svg "License Badge")
 
 [MIT License](http://opensource.org/licenses/mit-license.php)
