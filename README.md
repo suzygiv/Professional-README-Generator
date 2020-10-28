@@ -28,7 +28,9 @@ To view the entire video walkthrough, click here: https://drive.google.com/file/
       `npm init` `npm install inquirer`
 
 ## Usage
-Run the following command at the root of your project and answer the prompted questions: `node index.js`
+Run the following command at the root of your project and answer the prompted questions: 
+
+`node index.js`
 
 ## Licence
 ![License](https://img.shields.io/badge/License-mit-blue.svg "License Badge")
