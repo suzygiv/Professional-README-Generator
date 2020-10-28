@@ -36,7 +36,7 @@ Run the following command at the root of your project and answer the prompted qu
 [MIT License](http://opensource.org/licenses/mit-license.php)
 
 ## Contributors
-Suzanne Givnish
+[Suzanne Givnish](https://github.com/suzygiv)
 
 ## Tests
 N/A
